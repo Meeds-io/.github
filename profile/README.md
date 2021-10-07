@@ -2,14 +2,14 @@
 
 The Meeds Association provides its members with an open source employee recognition software implementation.
 The software is designed to be used as a core basis for a new software implementation or embedded into your existing software through APIs. With Meeds innovative gamification and token rewards engine, your employees and managers can recognize each other for their contributions, redeem customized and dynamic rewards in the perk store, and increase motivation, productivity, and retention.
-- Gamification: Capture user activity and attribute points accordingly.
-- Kudos: Encourage peer-to-peer recognition.
-- Token: Convert attributed points into tokens that can be exchanged or spent in the workplace.
-- Wallet: Ensure a secure and transparent exchange of tokens with wallets.
+- [Gamification](https://github.com/Meeds-io/gamification): Capture user activity and attribute points accordingly.
+- [Kudos](https://github.com/Meeds-io/kudos): Encourage peer-to-peer recognition.
+- [Token](https://github.com/Meeds-io/ert-contract): Convert attributed points into tokens that can be exchanged or spent in the workplace.
+- [Wallet](https://github.com/Meeds-io/wallet): Ensure a secure and transparent exchange of tokens with wallets.
 - Integrations: Easily integrate Meeds into other stacks through APIs and multiple integration points.
 
 ## 
-How to run
+[How to run](https://github.com/Meeds-io/meeds-docker#readme)
 Licence: [LGPL-3.0](https://github.com/exoplatform/.github/blob/main/LICENSE)
 
 ## 
