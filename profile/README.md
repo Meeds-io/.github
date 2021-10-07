@@ -1,4 +1,4 @@
-![Meeds banner](https://github.com/Meeds-io/.github/raw/main/profile/Meeds-employee-recognition-1024x513.png)
+![Meeds banner](https://github.com/Meeds-io/.github/raw/main/profile/meeds-697x270.png)
 
 The Meeds Association provides its members with an open source employee recognition software implementation.
 The software is designed to be used as a core basis for a new software implementation or embedded into your existing software through APIs. With Meeds innovative gamification and token rewards engine, your employees and managers can recognize each other for their contributions, redeem customized and dynamic rewards in the perk store, and increase motivation, productivity, and retention.
