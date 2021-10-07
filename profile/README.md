@@ -7,10 +7,13 @@ The software is designed to be used as a core basis for a new software implement
 - Token: Convert attributed points into tokens that can be exchanged or spent in the workplace.
 - Wallet: Ensure a secure and transparent exchange of tokens with wallets.
 - Integrations: Easily integrate Meeds into other stacks through APIs and multiple integration points.
-How to run
-Licence: LGPL -3.0
 
-Meeds is developed using a user centric and collaborative approach in order to provide a holistic and smooth experience. It is based on modern architecture and a software stack based on Vuejs/Vuetify and Java. The code is available on GitHub and instances can be launched via Docker.
+## 
+How to run
+Licence: [LGPL-3.0](https://github.com/exoplatform/.github/blob/main/LICENSE)
+
+## 
+Meeds is developed using a user centric and collaborative approach in order to provide a holistic and smooth experience. It is based on modern architecture and a software stack based on [Vuejs](https://github.com/vuejs)/[Vuetify](https://github.com/vuetifyjs) and [Java](https://github.com/openjdk/). The code is available on GitHub and instances can be launched via Docker.
 
 
 <!--
