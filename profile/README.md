@@ -13,7 +13,7 @@ The software is designed to be used as a core basis for a new software implement
 Licence: [LGPL-3.0](https://github.com/exoplatform/.github/blob/main/LICENSE)
 
 ##
-You can reach us here on [GitHub Discussion](https://github.com/Meeds-io/meeds/discussions), on [Discord](https://discord.com/invite/zjRHDn4r) or [Telegram](https://t.me/meedsdao)
+You can reach us here on [GitHub Discussion](https://github.com/Meeds-io/meeds/discussions), on [Discord](https://discord.gg/7d9Byf4Fz6) or [Telegram](https://t.me/meedsdao)
 
 ## 
 Meeds is developed using a user centric and collaborative approach in order to provide a holistic and smooth experience. It is based on modern architecture and a software stack based on [Vuejs](https://github.com/vuejs)/[Vuetify](https://github.com/vuetifyjs) and [Java](https://github.com/openjdk/). The code is available on GitHub and instances can be launched via Docker.
