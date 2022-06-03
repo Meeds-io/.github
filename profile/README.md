@@ -14,6 +14,10 @@ Learn more about Meeds DAO in the [whitepaper](https://github.com/Meeds-io/white
 [How to run](https://github.com/Meeds-io/meeds-docker#readme)
 Licence: [LGPL-3.0](https://github.com/exoplatform/.github/blob/main/LICENSE)
 
+or
+
+See a Meeds Server in action by joining the [Meeds DAO Builders](https://meeds.io/builders) community and discover more ways to contribute.
+
 ##
 You can reach us here on [GitHub Discussions](https://github.com/Meeds-io/meeds/discussions), on [Discord](https://discord.gg/7d9Byf4Fz6), on [Telegram](https://t.me/meedsdao) or follow us on [Twitter](https://mobile.twitter.com/iomeeds)
 
