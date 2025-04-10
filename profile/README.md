@@ -1,39 +1,62 @@
+
 ![Meeds banner](https://github.com/Meeds-io/.github/raw/main/profile/meeds-banner-logo.png)
 
-The Meeds Association provides its members with an open source employee recognition software implementation.
-The software is designed to be used as a core basis for a new software implementation or embedded into your existing software through APIs. With Meeds innovative gamification and token rewards engine, your employees and managers can recognize each other for their contributions, redeem customized and dynamic rewards in the perk store, and increase motivation, productivity, and retention.
-- [Gamification](https://github.com/Meeds-io/gamification): Capture user activity and attribute points accordingly.
-- [Kudos](https://github.com/Meeds-io/kudos): Encourage peer-to-peer recognition.
-- [Token](https://github.com/Meeds-io/ert-contract): Convert attributed points into tokens that can be exchanged or spent in the workplace.
-- [Wallet](https://github.com/Meeds-io/wallet): Ensure a secure and transparent exchange of tokens with wallets.
-- Integrations: Easily integrate Meeds into other stacks through APIs and multiple integration points.
+# Meeds – The Open Source Web3 Community Platform
 
-Learn more about Meeds DAO in the [whitepaper](https://github.com/Meeds-io/whitepaper).
+**Meeds is a modular, open-source platform to activate, engage, and reward contributors in Web3 communities.**  
+Built for decentralized teams, DAOs, and builders, Meeds enables communities to communicate effectively, collaborate on shared projects, and recognize contributions with points, badges, and on-chain rewards.
 
-## 
-[How to run](https://github.com/Meeds-io/meeds-docker#readme)
-Licence: [LGPL-3.0](https://github.com/exoplatform/.github/blob/main/LICENSE)
+---
 
-or
+### What You Can Do with Meeds
 
-See a Meeds Server in action by joining the [Meeds DAO Builders](https://meeds.io/builders) community and discover more ways to contribute.
+#### **Communicate**
+- Share ideas, news, and updates through feeds, multilingual content, and push notifications
+- Create public or private community pages with a built-in CMS
+- Build branded mobile and desktop experiences
 
-##
-You can reach us here on [GitHub Discussions](https://github.com/Meeds-io/meeds/discussions), on [Discord](https://discord.gg/7d9Byf4Fz6), on [Telegram](https://t.me/meedsdao) or follow us on [Twitter](https://mobile.twitter.com/iomeeds)
+#### **Contribute**
+- Manage tasks and projects with boards and assignments
+- Collaborate through notes, shared documents, and community apps
+- Organize members into spaces with custom permissions
 
-## 
-Meeds is developed using a user centric and collaborative approach in order to provide a holistic and smooth experience. It is based on modern architecture and a software stack based on [Vuejs](https://github.com/vuejs)/[Vuetify](https://github.com/vuetifyjs) and [Java](https://github.com/openjdk/). The code is available on GitHub and instances can be launched via Docker.
+#### **Reward**
+- Track contributions and automate recognition via actions or external integrations (GitHub, Twitter, etc.)
+- Grant badges, kudos, and leaderboards
+- Distribute on-chain rewards and manage community wallets
 
+---
 
+### Key Modules
 
+- [Gamification](https://github.com/Meeds-io/gamification): Attribute points to community activity
+- [Kudos](https://github.com/Meeds-io/kudos): Enable peer-to-peer recognition
+- [Token Engine](https://github.com/Meeds-io/ert-contract): Convert points into redeemable tokens
+- [Wallet](https://github.com/Meeds-io/wallet): Manage secure and transparent community payouts
+- [Docker Setup](https://github.com/Meeds-io/meeds-docker): Deploy a Meeds instance in minutes
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+### Learn More
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+- [Meeds Whitepaper](https://github.com/Meeds-io/whitepaper)
+- [Join the Builders Community](https://meeds.io/builders)
+- [Start your free Hub](https://meeds.io/start)
+
+---
+
+### Connect with Us
+
+- [GitHub Discussions](https://github.com/Meeds-io/meeds/discussions)
+- [Discord](https://discord.gg/7d9Byf4Fz6)
+- [Telegram](https://t.me/meedsdao)
+- [Twitter / X](https://twitter.com/iomeeds)
+
+---
+
+### Tech Stack
+
+Meeds is developed using a collaborative, user-centric approach.  
+It is based on a modern tech stack including [Vue.js](https://github.com/vuejs), [Vuetify](https://github.com/vuetifyjs), [Java](https://github.com/openjdk/), and [Docker](https://www.docker.com/).
+
+License: [LGPL-3.0](https://github.com/exoplatform/.github/blob/main/LICENSE)
